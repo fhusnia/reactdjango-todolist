@@ -1,0 +1,6 @@
+.title-input, .content-input, .add-button{
+    width:400px;
+    display:block;
+    margin:auto;
+    margin-bottom: 10px;
+}

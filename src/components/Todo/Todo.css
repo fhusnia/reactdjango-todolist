@@ -1,0 +1,24 @@
+.Todo{
+    background-color: aqua;
+    padding:5px;
+    display: flex;
+    align-items: center;
+}
+.index{
+    text-align:center;
+    width:40px;
+    font-size:25px;
+    font-weight: bold;
+}
+
+.title{
+    font-weight: bold;
+}
+
+.controls{
+    margin-left: auto;
+}
+
+.delete{
+    width:40px;
+}
